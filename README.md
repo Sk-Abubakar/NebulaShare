@@ -32,7 +32,9 @@ or use bun install
 Create a .env file in the root directory and add your keys:
 
 VITE_ADMIN_PASSWORD=your_secure_password
+
 VITE_ADMIN_SESSION_SALT=any_random_string
+
 VITE_GEMINI_API_KEY=your_google_gemini_api_key
 
 4.**Start the Development Server:**
