@@ -26,7 +26,7 @@ NebulaShare allows users to instantly connect, chat, and share files directly ac
 2.**Install dependencies:**
 
 npm install 
-# or use bun install
+or use bun install
 
 3.**Set up Environment Variables:**
 Create a .env file in the root directory and add your keys:
@@ -38,7 +38,6 @@ VITE_GEMINI_API_KEY=your_google_gemini_api_key
 4.**Start the Development Server:**
 
 npm run dev
-npm run dev
-# or use bun run dev
+or use bun run dev
 
    
